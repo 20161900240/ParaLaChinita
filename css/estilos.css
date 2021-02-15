@@ -10,6 +10,11 @@
 
 }
 
+.img{
+   width: 100%;
+   border-radius: 50% !important;
+}
+
 body{
     text-align: center;
     background-color: blueviolet;
